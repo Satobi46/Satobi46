@@ -4,10 +4,10 @@
 
 ###
 Hi there, I'm [Satobi! ✨](#satobi)
-+ I’m currently working on making games on Unity
-+ I’m currently learning Lua
-+ Ask me about my dog
-+ How to reach me: hawksmith505@gmail.com
++ I’m currently working on making games on Unity and Developing mods for games
++ I’m currently learning Lua and Unity
++ Ask me about dogs and cats
++ How to reach me: `hawksmith505@gmail.com`
 ###
 
 

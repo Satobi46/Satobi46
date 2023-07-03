@@ -5,12 +5,12 @@
 ###
 Hello there, I'm [⚡Satobi⚡](#satobi)
 
-Has PhD in making mint flavoured coffee.
-Has PhD in creating nanomachines and human experiments.
-Has PhD in removing computer parts and putting them back together and hopefully they'd work.
-Professionell expert stock trading merchant and knows well about stonks doge coins.
-Greatest Transformers and Optimum Pride Supporter.
-Awakened crème de la crème peak apex the most uncomparable legendary and unsurpassable racist god-human tier being on earth.
++ Has PhD in making mint flavoured coffee.
++ Has PhD in creating nanomachines and human experiments.
++ Has PhD in removing computer parts and putting them back together and hopefully they'd work.
++ Professionell expert stock trading merchant and knows well about stonks doge coins.
++ Greatest Transformers and Optimum Pride Supporter.
++ Awakened crème de la crème peak apex the most uncomparable legendary and unsurpassable racist god-human tier being on earth.
 
 + I’m currently working on making games simple unity games for a year and a half.
 + I’m currently learning C# and Java.

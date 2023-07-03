@@ -3,11 +3,19 @@
 
 
 ###
-Hi there, I'm [Satobi! ✨](#satobi)
-+ I’m currently working on making games on Unity and Developing mods for games
-+ I’m currently learning Lua and Unity
-+ Ask me about dogs and cats
-+ How to reach me: [`hawksmith505@gmail.com`](https://mail.google.com/mail/)
+Hello there, I'm [⚡Satobi⚡](#satobi)
+
+Has PhD in making mint flavoured coffee.
+Has PhD in creating nanomachines and human experiments.
+Has PhD in removing computer parts and putting them back together and hopefully they'd work.
+Professionell expert stock trading merchant and knows well about stonks doge coins.
+Greatest Transformers and Optimum Pride Supporter.
+Awakened crème de la crème peak apex the most uncomparable legendary and unsurpassable racist god-human tier being on earth.
+
++ I’m currently working on making games simple unity games for a year and a half.
++ I’m currently learning C# and Java.
++ I only like cats, dogs and capybara yo.
++ My Email if you want to ask some questions or other: [`hawksmith505@gmail.com`](https://mail.google.com/mail/)
 ###
 
 
